@@ -1,0 +1,7 @@
+vhdl work "src/MySource/util.vhd"
+vhdl work "src/MimasV2VGA/VGAOut.vhd"
+vhdl work "src/MySource/MicrocontrollerInterface.vhd"
+vhdl work "src/MimasV2VGA/MimasV2VGADisplay.vhd"
+vhdl work "src/MimasV2Audio/MimasV2Audio.vhd"
+vhdl work "src/clocking.vhd"
+vhdl work "src/MimasV2TopModuleLX9.vhd"
